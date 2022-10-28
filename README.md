@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ZEXAWY
-- 👀 I’m interested in ...(programming in general)
-- 🌱 I’m currently learning ...(python)
-- 💞️ I’m looking to collaborate on ...(great project)
-- 📫 How to reach me ...(leave a message and i will reply as soon i see it)
+- This is a Game project using python 3.10... 
+- Using pygame module to built this project...
+- It's not the final product, I am still working on it... so be patient :)
+- finally i hope you enjoy it when i am done with it :)
+
+Thank you for your support :)
 
 <!---
 ZEXAWY/ZEXAWY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
